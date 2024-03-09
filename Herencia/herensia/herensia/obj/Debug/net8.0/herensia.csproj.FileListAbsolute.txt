@@ -1,0 +1,4 @@
+C:\Users\jandr\Desktop\Lab 01\Herencia\herensia\herensia\obj\Debug\net8.0\herensia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\Desktop\Lab 01\Herencia\herensia\herensia\obj\Debug\net8.0\herensia.AssemblyInfoInputs.cache
+C:\Users\jandr\Desktop\Lab 01\Herencia\herensia\herensia\obj\Debug\net8.0\herensia.AssemblyInfo.cs
+C:\Users\jandr\Desktop\Lab 01\Herencia\herensia\herensia\obj\Debug\net8.0\herensia.csproj.CoreCompileInputs.cache
